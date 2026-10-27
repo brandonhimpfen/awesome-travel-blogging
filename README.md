@@ -82,6 +82,7 @@
 
 ## Travel Blogging Resources
 
+- [China Travel Check](https://gochina.taoliapp.com/) - Verified English field manual for independent China travel (payments, eSIM, visas, trains) with dated sources.
 - [Nomadic Matt](https://www.nomadicmatt.com/) - Travel tips, guides, and advice from a successful travel blogger.
 - [Travel Blog Success](https://travelblogsuccess.com/) - A resource for tips and strategies on how to grow a travel blog.
 - [The Blonde Abroad](https://theblondeabroad.com/) - A popular travel blog with insights and resources for female travelers.
